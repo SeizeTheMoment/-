@@ -1,3 +1,4 @@
+//https://leetcode-cn.com/problems/coin-lcci
 const int MOD = 1e9+7;
 class Solution {
 public:
