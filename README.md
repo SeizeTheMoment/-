@@ -2,4 +2,5 @@
 就是个题解   
 我只是个菜鸡   
 OJ刷不动   
-只能刷刷PAT、leetcode这样子
+只能刷刷PAT、leetcode      
+才能勉强刷得下去这样子
